@@ -30,5 +30,5 @@ toml==0.10.2
 #pathlib2==2.3.6
 
 #Temporary environment
-python-dotenv==1.0.1
-requests==2.31.0
+python-dotenv==1.2.4
+requests==2.34.2
